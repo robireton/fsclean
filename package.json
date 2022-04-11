@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/robireton/fsclean/issues"
   },
-  "homepage": "https://github.com/robireton/fsclean#readme"
+  "homepage": "https://github.com/robireton/fsclean#readme",
+  "dependencies": {
+    "image-size": "^1.0.1"
+  }
 }
